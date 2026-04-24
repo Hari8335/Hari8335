@@ -5,7 +5,7 @@
 
 ### 🚀 About Me  
 - 🎓 Currently pursuing **Information Technology** at the **University of Moratuwa**  
-- 💻 Enthusiastic about **Software Development** using **Python** and **C Language**  
+- 💻 Enthusiastic about **Software Development** using **Java** and **C Language**  
 - 🌐 Exploring the exciting world of **Web Development**  
 - 🎨 Frontend development with **JavaScript**  
 
