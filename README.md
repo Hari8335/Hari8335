@@ -16,7 +16,7 @@ I build web applications and backend services, focusing on clear architecture, r
 ### [Nidhi](https://github.com/Hari8335/Nidhi) — Digital gold micro-savings prototype
 An educational FinTech project for Sri Lanka, built with **Next.js, TypeScript, ASP.NET Core, and PostgreSQL**.
 
-**Current progress:** Persistence, backend Identity authentication, frontend authentication, and customer/admin shells. Financial use cases and CI/CD remain planned. Financial activity is simulated; no real money is accepted.
+**Current progress:** Authentication, simulated wallet funding and gold purchases, savings goals, transaction views, and admin features are implemented, with backend and frontend tests. Deployment and CI/CD remain next steps. Financial activity is simulated; no real money is accepted.
 
 ### [StockPing](https://github.com/Hari8335/stockping) — Retail demand & stock notifications
 A system designed to capture product demand and notify consenting customers when an exact product variant returns to stock. Built with **Spring Boot, Go, React, PostgreSQL, gRPC, and Docker**.
