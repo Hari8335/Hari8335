@@ -61,4 +61,4 @@ A **PHP and MySQL** application for publishing and managing posts, with authenti
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/sundaramoorthy-harikeshan/) · [Email](mailto:harikeshan@student.mrt.ac.lk)
+[LinkedIn](https://www.linkedin.com/in/sundaramoorthy-harikeshan/) · [Email](mailto:harikeshan123@gmail.com)
