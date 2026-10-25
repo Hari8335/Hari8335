@@ -1,57 +1,47 @@
-<h1 align="center">Hi 👋, I'm Sundaramoorthy Harikeshan</h1>
-<h3 align="center">A passionate first-year undergraduate in Information Technology from the University of Moratuwa 🌟</h3>
+# Hi, I'm Harikeshan Sundaramoorthy 👋
 
----
+**Third-year Information Technology undergraduate · University of Moratuwa · Sri Lanka**
 
-### 🚀 About Me  
-- 🎓 Currently pursuing **Information Technology** at the **University of Moratuwa**  
-- 💻 Enthusiastic about **Software Development** using **Java** and **C Language**  
-- 🌐 Exploring the exciting world of **Web Development**  
-- 🎨 Frontend development with **JavaScript**  
+I build web applications and backend services, focusing on clear architecture, reliable APIs, and practical solutions to everyday problems. My projects explore full-stack development, authentication, service communication, and automated testing.
 
----
+## About me
 
-### 🛠️ Tech Stack  
-#### Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- 🎓 Studying Information Technology at the **University of Moratuwa**.
+- 💻 Working with **Java / Spring Boot**, **C# / ASP.NET Core**, and **React / Next.js / TypeScript**.
+- 🔧 Developing skills in database design, Docker, API contracts, and testing through hands-on projects.
+- 🌱 Exploring distributed systems, **gRPC**, and event-driven architecture.
 
-#### Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+## Featured projects
 
-#### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
+### [Nidhi](https://github.com/Hari8335/Nidhi) — Digital gold micro-savings prototype
+An educational FinTech project for Sri Lanka, built with **Next.js, TypeScript, ASP.NET Core, and PostgreSQL**.
 
----
+**Current progress:** Persistence, backend Identity authentication, frontend authentication, and customer/admin shells. Financial use cases and CI/CD remain planned. Financial activity is simulated; no real money is accepted.
 
-### 🌱 Currently Learning  
-- Advanced **Web Development** techniques  
-- **Backend Development** with **Node.js**  
-- **Data Structures & Algorithms**  
+### [StockPing](https://github.com/Hari8335/stockping) — Retail demand & stock notifications
+A system designed to capture product demand and notify consenting customers when an exact product variant returns to stock. Built with **Spring Boot, Go, React, PostgreSQL, gRPC, and Docker**.
 
----
+**Current progress:** Catalog, inventory audits, and a real gRPC server are implemented. WhatsApp workflows, authentication, and RabbitMQ business events remain planned.
 
-### 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundaramoorthy-harikeshan/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harikeshan@student.mrt.ac.lk)  
+### [Wryte](https://github.com/Hari8335/Wryte_BlogApp) — Blogging application
+A **PHP and MySQL** application for publishing and managing posts, with authentication and a user dashboard.
 
----
+## Technologies used in my projects
 
-### 📊 GitHub Stats  
-![Harikeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SundaramoorthyHarikeshan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SundaramoorthyHarikeshan&layout=compact&theme=radical)  
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, Spring Boot, C#, ASP.NET Core, PHP, Go |
+| Frontend | TypeScript, JavaScript, React, Next.js, HTML, CSS |
+| Data & communication | PostgreSQL, MySQL, REST, gRPC / Protocol Buffers |
+| Workflow | Git, GitHub, Docker, Docker Compose, automated tests |
 
----
+## Engineering interests
 
-### ✨ Fun Fact  
-"I believe in the power of learning and creativity to build something amazing for the future 🌟"
+- Maintainable applications with clear responsibilities.
+- Explicit API contracts and reliable service communication.
+- Meaningful tests and reproducible local setups.
+- Understanding the trade-offs between modular monoliths and microservices.
 
----
+## Connect
 
-### 🌟 Thank You for Visiting!  
-Feel free to explore my repositories and connect with me for collaboration opportunities! 🚀
+[LinkedIn](https://www.linkedin.com/in/sundaramoorthy-harikeshan/) · [Email](mailto:harikeshan@student.mrt.ac.lk)
