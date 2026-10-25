@@ -13,6 +13,23 @@ I build web applications and backend services, focusing on clear architecture, r
 
 ## Featured projects
 
+### 🏥 Healing Nest Care — Hospital Management System
+
+**Role:** Full-Stack Developer · Second-year software project  
+**Repository:** Private
+
+Collaborated with a development team to build a role-based hospital management system supporting administration, patient services, clinical workflows, laboratory processing, pharmacy, billing, and reporting.
+
+**My contributions**
+- **Administration & security:** Developed modules using Spring Boot and Spring Security, including JWT authentication, role-based access control, BCrypt password hashing, MFA/OTP, session management, staff and role management, analytics dashboards, and audit logging.
+- **Laboratory workflows:** Implemented test processing through report submission.
+- **PDF reports:** Automated laboratory report generation using iText.
+- **API testing:** Tested and debugged REST APIs, authentication flows, and role-based workflows using Postman.
+
+**Tech stack:** React.js · Java · Spring Boot · Spring Security · PostgreSQL · Spring Data JPA · REST APIs · JWT · Recharts · iText · Maven · Git · Postman
+
+*Source code is private and is not publicly available.*
+
 ### [Nidhi](https://github.com/Hari8335/Nidhi) — Digital gold micro-savings prototype
 An educational FinTech project for Sri Lanka, built with **Next.js, TypeScript, ASP.NET Core, and PostgreSQL**.
 
